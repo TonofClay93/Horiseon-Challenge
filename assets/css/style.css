@@ -169,14 +169,3 @@ footer a {
 }
 
 /* Footer end */
-
-.spooky-boo {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0px;
-    font-size: 5px;
-    background: transparent;
-    width: 0;
-    height: 0;
-    left: 800px;
-  }
