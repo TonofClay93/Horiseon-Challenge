@@ -46,3 +46,6 @@
   .header {
       min-width: 1500px;
   }
+  p {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
