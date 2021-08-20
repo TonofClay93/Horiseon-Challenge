@@ -42,6 +42,7 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    font-size: 30px;
 }
 
 /* Header end */
@@ -105,13 +106,13 @@ p {
 
 .content-bio h2 {
     margin-bottom: 20px;
-    font-size: 26px;
+    font-size: 36px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .content-bio p {
     padding: 0px 50px 50px 0px;
-    font-size: 14px;
+    font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -134,9 +135,14 @@ p {
     color: #ffffff;
 }
 
+.benefit-title p {
+    font-size: 20px;
+}
+
 .benefit-title h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 26px;
 }
 
 .benefit-title img {
@@ -168,5 +174,6 @@ footer a {
     background-size: cover;
     display: inline-flex;
 }
+
 
 /* Footer end */
