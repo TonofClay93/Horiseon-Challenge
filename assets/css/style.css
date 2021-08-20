@@ -6,9 +6,8 @@
 
 body {
     background-color: #d9dcd6;
-    overflow: auto;
+  
 }
-
 /* Header section */
 
   .header {
@@ -76,16 +75,17 @@ p {
 /* Benefit start */
 
 .benefits {
-    margin-right: 20px;
+    margin: 0 20px;
     padding: 20px;
-    clear: both;
     float: right;
-    width: 400px;
+    width: 25%;
     height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    overflow: auto;
+   overflow: auto;
+
 }
+
 
 .benefit-title {
     margin-bottom: 32px;
@@ -169,10 +169,9 @@ footer a {
     color: black;
 }
 
-#online-social-media,
-#social-media-marketing,
-#search-engine-optimization {
-    float: left;
-
+#main-info {
+    width: 100%;
+    display: inline-flex;
+}
 
 /* Footer end */
