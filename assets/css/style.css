@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    display: grid;
   
 }
 /* Header section */
@@ -72,53 +73,17 @@ p {
 
 
 /* Extra Styles End */
-/* Benefit start */
-
-.benefits {
-    margin: 0 20px;
-    padding: 20px;
-    float: right;
-    width: 25%;
-    height: 940px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-   overflow: auto;
-
-}
-
-
-.benefit-title {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-title h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-title img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefit end */
 /* Content section */
 
 .content-section {
-    width: 75%;
-    margin: 0 auto 20px auto;
+    margin: 0 auto 20px 0px;
     text-align: center;
-    display: inline-block;
     overflow: auto;
-
-
 }
 
 .content-article {
     margin: 0 0 20px 0;
-    width: 1400px;
+    min-width: 1221px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -130,7 +95,6 @@ p {
     padding: 35px;
     float: left;
     width: 70%;
-    
 }
 
 .content-article img {
@@ -152,6 +116,36 @@ p {
 }
 
 /* Content end  */
+/* Benefit start */
+
+.benefits {
+    margin: 0 20px;
+    padding: 20px;
+    display: inline-block;
+    min-width: 554px;
+    height: 940px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+}
+
+
+.benefit-title {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-title h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-title img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Benefit end */
 /* Footer start */
 
 footer {
@@ -170,7 +164,8 @@ footer a {
 }
 
 #main-info {
-    width: 100%;
+    background-position: center;
+    background-size: cover;
     display: inline-flex;
 }
 
