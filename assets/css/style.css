@@ -9,8 +9,8 @@ body {
     display: grid;
   
 }
-/* Header section */
 
+/* Header section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -44,9 +44,9 @@ body {
     margin-left: 25px;
     font-size: 30px;
 }
-
 /* Header end */
 
+/* Extra Styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -65,17 +65,12 @@ p {
     background-position: center;
 }
 
-/* Extra Styles */
-
 .text-left {
     text-align: left;
 }
-
-
-
 /* Extra Styles End */
-/* Content section */
 
+/* Content section */
 .content-section {
     margin: 0 auto 20px 0px;
     text-align: center;
@@ -115,10 +110,9 @@ p {
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
 }
-
 /* Content end  */
-/* Benefit start */
 
+/* Benefit start */
 .benefits {
     margin: 0 20px;
     padding: 20px;
@@ -150,10 +144,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* Benefit end */
-/* Footer start */
 
+/* Footer start */
 footer {
     padding: 30px;
     clear: both;
@@ -174,6 +167,4 @@ footer a {
     background-size: cover;
     display: inline-flex;
 }
-
-
 /* Footer end */

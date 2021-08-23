@@ -1,3 +1,5 @@
+/* Privacy Policy Styles */
+
 .hero {
     background-position: center;
     height: auto;
@@ -21,6 +23,7 @@
     width: 80%;
     margin: 0 auto;
     color: #024e76;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   .secondary-content h3 {
@@ -36,16 +39,16 @@
   
   .secondary-content ul {
     margin: 15px 20px;
+  
   }
   
   .secondary-content li {
     color: #39a6b2;
     margin: 10px 0;
+   
   }
 
   .header {
       min-width: 1500px;
   }
-  p {
-      font-family: Georgia, 'Times New Roman', Times, serif;
-  }
+ 
