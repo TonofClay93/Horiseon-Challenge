@@ -2,6 +2,8 @@
 
 https://tonofclay93.github.io/Horiseon-Challenge/
 
+<br />
+
 <img src="/assets/images/Top-half-Screenshot-page-1.jpg">
 <img src="/assets/images/Bottom-half-screenshot-page-1.jpg">
 <img src="/assets/images/Privacy-policy-added.jpg">
