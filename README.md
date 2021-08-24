@@ -1,5 +1,9 @@
 # Module 1 challenge : Horiseon refactor code
 
+Here we have the refactored code & more on the Module 1 Challenge. The goal here was to refactor the code to meet the criteria, I took the knowledge I had learned and even attempted to make the page more appealing. 
+
+I wanted to show my understanding of how multiple pages work so I also added a Standard Privacy policy to the page with a seperate hero background that I felt was appropriate to the page. 
+
 https://tonofclay93.github.io/Horiseon-Challenge/
 
 <br />
