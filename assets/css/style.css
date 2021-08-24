@@ -24,7 +24,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #8e99ab;
 }
 
 .header nav {
@@ -161,10 +161,11 @@ footer h2 {
 footer a {
     color: black;
 }
+/* Footer end */
+
 
 #main-info {
     background-position: center;
     background-size: cover;
     display: inline-flex;
 }
-/* Footer end */
