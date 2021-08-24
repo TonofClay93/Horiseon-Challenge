@@ -13,3 +13,4 @@ https://tonofclay93.github.io/Horiseon-Challenge/
 
 # Code Refactored
 <img src="/assets/images/code-cleaned.jpg">
+  
